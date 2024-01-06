@@ -1,6 +1,5 @@
 # Portfolio Website - HTML, CSS, and JavaScript Showcase
 
-![Portfolio Website Preview]
 ![Screenshot 2024-01-07 011558](https://github.com/akm-engineer/Portfolio-website-1/assets/118009781/608da707-38f8-4708-b58f-02ded9554edc)
 
 ## Introduction
@@ -9,7 +8,7 @@ Hello, GitHub community!
 
 I'm excited to present my latest project – my portfolio website, showcasing my skills in HTML, CSS, and JavaScript. This project marks a significant milestone in my web development journey, and I'm thrilled to share it with you.
 
-Explore my portfolio website: [Portfolio Website]([https://lnkd.in/dPF-EJpb](https://akm-engineer.github.io/Portfolio-website-1/index.html))
+Explore my portfolio website: (https://akm-engineer.github.io/Portfolio-website-1/index.html
 
 ## Highlights
 
@@ -31,8 +30,8 @@ As a web developer, I'm eager for exciting opportunities and collaborations. If 
 
 ## Connect with Me
 
-- Explore my portfolio website: [Portfolio Website]([https://lnkd.in/dPF-EJpb](https://akm-engineer.github.io/Portfolio-website-1/index.html))
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/akm-engineer/))
+- Explore my portfolio website:https://akm-engineer.github.io/Portfolio-website-1/index.html
+- LinkedIn: https://www.linkedin.com/in/akm-engineer/
 - Email: ashishgk1999@gmail.com
 
 I appreciate your time exploring my portfolio website. Your support and engagement within this professional network mean a lot to me. Let's connect and collaborate to make a positive impact in the web development community.
