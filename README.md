@@ -38,6 +38,4 @@ I appreciate your time exploring my portfolio website. Your support and engageme
 
 Looking forward to connecting with you and exchanging valuable insights!
 
----
 
-Feel free to customize the content, replace placeholder links with your actual project details, and include a link to an image preview of your portfolio website. Additionally, upload the preview image to your GitHub repository and update the "link-to-preview-image.png" accordingly.
